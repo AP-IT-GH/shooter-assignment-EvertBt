@@ -1,1 +1,1 @@
-"# Shooter assignment Evert Bekaert" 
+# Shooter assignment Evert Bekaert
